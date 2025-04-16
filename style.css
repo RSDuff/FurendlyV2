@@ -1,0 +1,1052 @@
+.landing-desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .landing-desktop .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 2979px;
+    position: relative;
+  }
+  
+  .landing-desktop .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 940px;
+    top: 60px;
+    left: 0;
+    background-image: url(https://c.animaapp.com/m9kgifl7iFbUOc/img/rectangle-33-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-desktop .component {
+    position: absolute;
+    width: 874px;
+    height: 338px;
+    top: 496px;
+    left: 74px;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .landing-desktop .text-wrapper {
+    position: absolute;
+    top: 17px;
+    left: 26px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-2 {
+    top: 17px;
+    left: 387px;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .boarding-near {
+    top: 127px;
+    left: 26px;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-3 {
+    position: absolute;
+    top: 127px;
+    left: 387px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .overlap-group {
+    position: absolute;
+    width: 307px;
+    height: 40px;
+    top: 156px;
+    left: 26px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #949191;
+  }
+  
+  .landing-desktop .text-wrapper-4 {
+    position: absolute;
+    width: 122px;
+    top: 7px;
+    left: 23px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #949191;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .div-wrapper {
+    position: absolute;
+    width: 210px;
+    height: 40px;
+    top: 156px;
+    left: 387px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #949191;
+  }
+  
+  .landing-desktop .text-wrapper-5 {
+    position: absolute;
+    width: 87px;
+    top: 7px;
+    left: 17px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #949191;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .overlap-2 {
+    position: absolute;
+    width: 210px;
+    height: 40px;
+    top: 156px;
+    left: 645px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #949191;
+  }
+  
+  .landing-desktop .overlap-group-2 {
+    position: absolute;
+    width: 150px;
+    height: 64px;
+    top: 49px;
+    left: 387px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #949191;
+  }
+  
+  .landing-desktop .text-wrapper-6 {
+    top: 19px;
+    left: 38px;
+    font-weight: 400;
+    color: #949191;
+    font-size: 18px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .overlap-3 {
+    position: absolute;
+    width: 150px;
+    height: 43px;
+    top: 253px;
+    left: 645px;
+    background-color: #192c32;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #949191;
+  }
+  
+  .landing-desktop .text-wrapper-7 {
+    position: absolute;
+    top: 9px;
+    left: 46px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .overlap-4 {
+    position: absolute;
+    width: 150px;
+    height: 64px;
+    top: 49px;
+    left: 183px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #949191;
+  }
+  
+  .landing-desktop .text-wrapper-8 {
+    position: absolute;
+    top: 19px;
+    left: 60px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #949191;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .overlap-5 {
+    position: absolute;
+    width: 150px;
+    height: 64px;
+    top: 49px;
+    left: 26px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #949191;
+  }
+  
+  .landing-desktop .text-wrapper-9 {
+    left: 57px;
+    position: absolute;
+    top: 19px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #949191;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .overlap-6 {
+    position: absolute;
+    width: 150px;
+    height: 64px;
+    top: 49px;
+    left: 546px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #949191;
+  }
+  
+  .landing-desktop .text-wrapper-10 {
+    top: 19px;
+    left: 20px;
+    font-weight: 400;
+    color: #949191;
+    font-size: 18px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .overlap-7 {
+    position: absolute;
+    width: 150px;
+    height: 64px;
+    top: 49px;
+    left: 705px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #949191;
+  }
+  
+  .landing-desktop .text-wrapper-11 {
+    left: 23px;
+    position: absolute;
+    top: 19px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #949191;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .local-and-loving-pet {
+    position: absolute;
+    top: 49px;
+    left: 831px;
+    font-family: "Roboto Slab", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .navbar {
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    top: 0;
+    left: 0;
+    background-color: #192c32;
+  }
+  
+  .landing-desktop .text-wrapper-12 {
+    position: absolute;
+    top: 16px;
+    left: 877px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #becabc;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-13 {
+    top: 15px;
+    left: 1072px;
+    font-weight: 700;
+    color: #becabc;
+    font-size: 24px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-14 {
+    position: absolute;
+    top: 15px;
+    left: 1288px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #becabc;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-15 {
+    position: absolute;
+    top: 15px;
+    left: 1185px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #becabc;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .group {
+    position: absolute;
+    width: 185px;
+    height: 51px;
+    top: 4px;
+    left: 34px;
+  }
+  
+  .landing-desktop .vector {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 12px;
+    left: 0;
+  }
+  
+  .landing-desktop .text-wrapper-16 {
+    top: 0;
+    left: 36px;
+    position: absolute;
+    font-family: "Permanent Marker", Helvetica;
+    font-weight: 400;
+    color: #becabc;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .img {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 14px;
+    left: 1348px;
+  }
+  
+  .landing-desktop .service-section {
+    position: absolute;
+    width: 720px;
+    height: 666px;
+    top: 1000px;
+    left: 0;
+    background-color: #192c32;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .landing-desktop .text-wrapper-17 {
+    top: 154px;
+    left: 199px;
+    font-weight: 700;
+    color: var(--secondary);
+    font-size: 25px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-18 {
+    top: 293px;
+    left: 199px;
+    font-weight: 700;
+    color: var(--secondary);
+    font-size: 25px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-19 {
+    position: absolute;
+    width: 153px;
+    top: 453px;
+    left: 199px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: var(--secondary);
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .p {
+    position: absolute;
+    top: 51px;
+    left: 90px;
+    font-family: "Roboto Slab", Helvetica;
+    font-weight: 700;
+    color: #becabc;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .your-pets-stay {
+    position: absolute;
+    width: 393px;
+    top: 206px;
+    left: 199px;
+    font-family: "Roboto Flex", Helvetica;
+    font-weight: 400;
+    color: #becabc;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .text-wrapper-20 {
+    position: absolute;
+    width: 358px;
+    top: 345px;
+    left: 199px;
+    font-family: "Roboto Flex", Helvetica;
+    font-weight: 400;
+    color: #becabc;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .text-wrapper-21 {
+    position: absolute;
+    width: 358px;
+    top: 506px;
+    left: 199px;
+    font-family: "Roboto Flex", Helvetica;
+    font-weight: 400;
+    color: #becabc;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .solar-suitcase-bold {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 146px;
+    left: 115px;
+  }
+  
+  .landing-desktop .ph-paw-print-fill {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 285px;
+    left: 115px;
+  }
+  
+  .landing-desktop .fluent-emoji-high {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 445px;
+    left: 115px;
+  }
+  
+  .landing-desktop .component-2 {
+    position: absolute;
+    width: 720px;
+    height: 666px;
+    top: 1000px;
+    left: 720px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .landing-desktop .text-wrapper-22 {
+    position: absolute;
+    top: 57px;
+    left: 140px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: var(--primary);
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-23 {
+    position: absolute;
+    width: 460px;
+    top: 203px;
+    left: 132px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .text-wrapper-24 {
+    top: 344px;
+    left: 125px;
+    position: absolute;
+    width: 460px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .text-wrapper-25 {
+    top: 504px;
+    left: 132px;
+    position: absolute;
+    width: 460px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .text-wrapper-26 {
+    position: absolute;
+    top: 157px;
+    left: 168px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: var(--primary);
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-27 {
+    position: absolute;
+    top: 292px;
+    left: 173px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: var(--primary);
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-28 {
+    position: absolute;
+    top: 452px;
+    left: 180px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: var(--primary);
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .vector-2 {
+    position: absolute;
+    width: 37px;
+    height: 35px;
+    top: 152px;
+    left: 103px;
+  }
+  
+  .landing-desktop .vector-3 {
+    position: absolute;
+    width: 37px;
+    height: 35px;
+    top: 152px;
+    left: 592px;
+  }
+  
+  .landing-desktop .vector-4 {
+    position: absolute;
+    width: 37px;
+    height: 35px;
+    top: 447px;
+    left: 103px;
+  }
+  
+  .landing-desktop .vector-5 {
+    position: absolute;
+    width: 37px;
+    height: 35px;
+    top: 287px;
+    left: 103px;
+  }
+  
+  .landing-desktop .vector-6 {
+    position: absolute;
+    width: 37px;
+    height: 35px;
+    top: 451px;
+    left: 592px;
+  }
+  
+  .landing-desktop .vector-7 {
+    position: absolute;
+    width: 37px;
+    height: 35px;
+    top: 287px;
+    left: 592px;
+  }
+  
+  .landing-desktop .reviews {
+    position: absolute;
+    width: 1440px;
+    height: 626px;
+    top: 1666px;
+    left: 0;
+    background-color: #becabc;
+  }
+  
+  .landing-desktop .overlap-8 {
+    position: absolute;
+    width: 650px;
+    height: 481px;
+    top: 91px;
+    left: 70px;
+  }
+  
+  .landing-desktop .rectangle {
+    position: absolute;
+    width: 550px;
+    height: 360px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-desktop .frame {
+    display: flex;
+    flex-direction: column;
+    width: 375px;
+    height: 215px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 30px 36px;
+    position: absolute;
+    top: 266px;
+    left: 275px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+  }
+  
+  .landing-desktop .worem-ipsum-dolor {
+    position: relative;
+    width: 289px;
+    margin-top: -1.00px;
+    font-family: "Roboto Flex", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .overlap-9 {
+    position: absolute;
+    width: 650px;
+    height: 481px;
+    top: 91px;
+    left: 737px;
+  }
+  
+  .landing-desktop .app-download {
+    position: absolute;
+    width: 1440px;
+    height: 300px;
+    top: 2292px;
+    left: 0;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .landing-desktop .download-our {
+    position: absolute;
+    top: 84px;
+    left: 349px;
+    font-family: "Roboto Slab", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .store-download {
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    top: 174px;
+    left: 526px;
+    background-color: #000000;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #a6a6a6;
+  }
+  
+  .landing-desktop .playstore {
+    position: absolute;
+    width: 21px;
+    height: 24px;
+    top: 8px;
+    left: 8px;
+  }
+  
+  .landing-desktop .content {
+    display: inline-flex;
+    gap: 3px;
+    top: 5px;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 36px;
+  }
+  
+  .landing-desktop .subtext {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .path {
+    position: relative;
+    width: 74px;
+    height: 15px;
+  }
+  
+  .landing-desktop .component-3 {
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    top: 174px;
+    left: 763px;
+    background-color: #000000;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #a6a6a6;
+  }
+  
+  .landing-desktop .apple {
+    position: absolute;
+    width: 20px;
+    height: 24px;
+    top: 8px;
+    left: 8px;
+  }
+  
+  .landing-desktop .content-2 {
+    display: flex;
+    width: 78px;
+    top: 6px;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 36px;
+  }
+  
+  .landing-desktop .text-wrapper-29 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "SF Compact Text-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: 9px;
+  }
+  
+  .landing-desktop .text-wrapper-30 {
+    position: relative;
+    align-self: stretch;
+    font-family: "SF Compact Display-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: -0.47px;
+    line-height: 18px;
+  }
+  
+  .landing-desktop .footer {
+    position: absolute;
+    width: 1440px;
+    height: 387px;
+    top: 2592px;
+    left: 0;
+  }
+  
+  .landing-desktop .footer-2 {
+    position: relative;
+    height: 387px;
+    background-color: var(--primary);
+  }
+  
+  .landing-desktop .forward-button-wrapper {
+    position: absolute;
+    width: 387px;
+    height: 50px;
+    top: 250px;
+    left: 493px;
+    background-color: #ffffff;
+  }
+  
+  .landing-desktop .forward-button {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 0;
+    left: 337px;
+  }
+  
+  .landing-desktop .text-wrapper-31 {
+    position: absolute;
+    top: 85px;
+    left: 1111px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--secondary);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .text-wrapper-32 {
+    position: absolute;
+    top: 86px;
+    left: 1237px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--secondary);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .text-wrapper-33 {
+    position: absolute;
+    top: 145px;
+    left: 1094px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--secondary);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .text-wrapper-34 {
+    position: absolute;
+    top: 204px;
+    left: 1098px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--secondary);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .text-wrapper-35 {
+    position: absolute;
+    top: 263px;
+    left: 1085px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--secondary);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .text-wrapper-36 {
+    position: absolute;
+    top: 76px;
+    left: 493px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: var(--secondary);
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-desktop .text-wrapper-37 {
+    position: absolute;
+    width: 394px;
+    top: 145px;
+    left: 498px;
+    font-family: "Roboto Condensed", Helvetica;
+    font-weight: 400;
+    color: var(--secondary);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .instagram {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 146px;
+    left: 138px;
+  }
+  
+  .landing-desktop .twitter-x {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 146px;
+    left: 207px;
+  }
+  
+  .landing-desktop .facebook {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 146px;
+    left: 276px;
+  }
+  
+  .landing-desktop .text-wrapper-38 {
+    position: absolute;
+    top: 263px;
+    left: 1212px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--secondary);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-desktop .vector-8 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 83px;
+    left: 138px;
+  }
+  
+  .landing-desktop .text-wrapper-39 {
+    top: 71px;
+    left: 182px;
+    position: absolute;
+    font-family: "Permanent Marker", Helvetica;
+    font-weight: 400;
+    color: #becabc;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
