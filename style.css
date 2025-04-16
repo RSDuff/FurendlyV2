@@ -160,8 +160,10 @@
   }
   
   .landing-desktop .text-wrapper-6 {
-    top: 19px;
-    left: 38px;
+    top: 0px;
+    left: 0px;
+    height: 64px;
+    width: 148px;
     font-weight: 400;
     color: #949191;
     font-size: 18px;
@@ -211,8 +213,10 @@
   
   .landing-desktop .text-wrapper-8 {
     position: absolute;
-    top: 19px;
-    left: 60px;
+    top: 0px;
+    left: 0px;
+    height: 64px;
+    width: 148px;
     font-family: "Roboto", Helvetica;
     font-weight: 400;
     color: #949191;
@@ -235,9 +239,11 @@
   }
   
   .landing-desktop .text-wrapper-9 {
-    left: 57px;
     position: absolute;
-    top: 19px;
+    top: 0px;
+    left: 0px;
+    height: 64px;
+    width: 148px;
     font-family: "Roboto", Helvetica;
     font-weight: 400;
     color: #949191;
@@ -260,8 +266,10 @@
   }
   
   .landing-desktop .text-wrapper-10 {
-    top: 19px;
-    left: 20px;
+    top: 0px;
+    left: 0px;
+    height: 64px;
+    width: 148px;
     font-weight: 400;
     color: #949191;
     font-size: 18px;
@@ -285,9 +293,11 @@
   }
   
   .landing-desktop .text-wrapper-11 {
-    left: 23px;
     position: absolute;
-    top: 19px;
+    top: 0px;
+    left: 0px;
+    height: 64px;
+    width: 148px;
     font-family: "Roboto", Helvetica;
     font-weight: 400;
     color: #949191;
@@ -324,6 +334,7 @@
     left: 877px;
     font-family: "Roboto", Helvetica;
     font-weight: 700;
+    background-color: #192c32;
     color: #becabc;
     font-size: 24px;
     text-align: center;
@@ -336,6 +347,7 @@
     top: 15px;
     left: 1072px;
     font-weight: 700;
+    background-color: #192c32;
     color: #becabc;
     font-size: 24px;
     position: absolute;
@@ -351,6 +363,7 @@
     left: 1288px;
     font-family: "Roboto", Helvetica;
     font-weight: 700;
+    background-color: #192c32;
     color: #becabc;
     font-size: 24px;
     letter-spacing: 0;
@@ -364,6 +377,7 @@
     left: 1185px;
     font-family: "Roboto", Helvetica;
     font-weight: 700;
+    background-color: #192c32;
     color: #becabc;
     font-size: 24px;
     letter-spacing: 0;
@@ -401,10 +415,10 @@
   
   .landing-desktop .img {
     position: absolute;
-    width: 30px;
-    height: 30px;
-    top: 14px;
-    left: 1348px;
+    width: 20px;
+    height: 20px;
+    top: 20px;
+    left: 1360px;
   }
   
   .landing-desktop .service-section {
